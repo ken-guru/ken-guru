@@ -1,4 +1,6 @@
-### Hi there 👋
+# Ken Sørevåge
+
+A developer with a 🧠 for technology and logic, an 👁️ for design and structure, and a 🫀 for user experience and problem solving.
 
 <!--
 **ken-guru/ken-guru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
